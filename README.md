@@ -1,4 +1,3 @@
-- Sup! I’m known as Rob or Ririn
+- Sup! I’m known as Ririn
 - I’m interested in machine learning
-- I’m using GitHub to track progress of my learning journey
-- You can reach me on Discord: conraldrob
+- I’m using GitHub to track the progress of my learning journey
